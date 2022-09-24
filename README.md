@@ -12,9 +12,6 @@ I've previously worked as a Junior .Net developer and currently focused on JS an
 <a href="https://instagram.com/iburaksag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iburaksag" height="30" width="40" /></a>
 </p>
 
-- 📫 How to reach me **iburaksag@gmail.com**
-
-- 🌱 I’m currently learning **ReactJS - NodeJS and being professional on JS frameworks.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
