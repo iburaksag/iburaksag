@@ -6,15 +6,15 @@ I recently graduated from the Master of Science in Computer Science program in S
 I've previously worked as a Junior .Net developer and currently focused on JS and aim to improve myself at this point and lay the foundations of being a qualified full-stack developer.</h4>
 
 
-- 🌱 I’m currently learning **ReactJS - NodeJS and being professional on JS frameworks.**
-
-- 📫 How to reach me **iburaksag@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/iburaksag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iburaksag" height="30" width="40" /></a>
 <a href="https://instagram.com/iburaksag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iburaksag" height="30" width="40" /></a>
 </p>
+
+- 📫 How to reach me **iburaksag@gmail.com**
+
+- 🌱 I’m currently learning **ReactJS - NodeJS and being professional on JS frameworks.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
