@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Burak!</h1>
-<h3 align="center">A passionate full stack developer from Dublin!</h3>
+<h3 align="center">A passionate software developer from Dublin!</h3>
 
 <h4 align="center">Nice to meet you!
 I recently graduated from the Master of Science in Computing program in September 2022.
