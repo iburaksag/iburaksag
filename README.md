@@ -3,7 +3,7 @@
 
 <h4 align="center">Nice to meet you!
 I recently graduated from the Master of Science in Computer Science program in September 2022.
-I've previously worked as a Junior .Net developer and currently focused on JS and aim to improve myself at this point and lay the foundations of being a qualified full-stack developer.</h4>
+I've previously worked as a Junior .Net developer and currently focused on JS frameworks and aim to improve myself at this point and lay the foundations of being a qualified full-stack developer.</h4>
 
 
 - 🔭 I’m currently interested in **Web Development**
