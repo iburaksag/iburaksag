@@ -1,6 +1,11 @@
 <h1 align="center">Hello World 👋, I'm Burak!</h1>
 <h3 align="center">A passionate full stack developer from Dublin!</h3>
 
+
+Nice to meet you!
+I recently graduated from the Master of Science in Computing program in September 2022.
+I've previously worked as a Junior .Net developer and currently focused on JS and aim to develop myself at this point and lay the foundations of being a qualified full-stack developer.
+
 - 🌱 I’m currently learning **ReactJS - NodeJS and being professional on JS frameworks.**
 
 - 📫 How to reach me **iburaksag@gmail.com**
