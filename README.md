@@ -8,6 +8,8 @@ I've previously worked as a Junior .Net developer and currently focused on JS fr
 
 - 🔭 I’m currently interested in **Web Development**
 
+- 🚌 I’m currently studying in **MSc in Computer Science** in **Griffith College Dublin**
+
 - 👯 I’m looking to collaborate on **Full Stack Web Development**
 
 - 🌱 I’m currently learning **ReactJS and NodeJS**
