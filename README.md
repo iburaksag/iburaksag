@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 👋, I'm Burak!</h1>
 <h3 align="center">A passionate Software Developer from Dublin!</h3>
-[Check out my website!](http:s//buraksag.com)
+[Check out my website!](https://buraksag.com)
 
 
 <h4 align="center">Nice to meet you!
