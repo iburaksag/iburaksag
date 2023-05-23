@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from Dublin!</h3>
 
 <h4 align="center">Nice to meet you!
-I am currently pursuing my master's degree in Computer Science.
+ I am presently pursuing a Master's Degree in Computer Science at Griffith College Dublin with an anticipated graduation date at the end of June 2023.
 I've previously worked as a Junior .Net developer and currently focused on JS frameworks and aim to improve myself at this point and lay the foundations of being a qualified full-stack developer.</h4>
 
 
