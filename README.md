@@ -1,4 +1,6 @@
-<h1 align="center">Hello World 👋, I'm Burak! <br><a href="http://buraksag.com" target="_blank">Check out my website!</a></h1>
+<h1 align="center">Hello World 👋, I'm Burak! <br>
+ <h2><a href="http://buraksag.com" target="_blank">Check out my website!</a></h2>
+</h1>
 
 <h3 align="center">A passionate Software Developer from Dublin!</h3>
 
