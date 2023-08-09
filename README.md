@@ -39,6 +39,14 @@
  
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
  <img src="https://qph.cf2.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc" alt="python" width="40" height="40"/> </a>
+
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://img-c.udemycdn.com/course/750x422/4152006_54df_5.jpg" alt="django" width="40" height="40"/> </a>
+
+ <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" alt="flask" width="40" height="40"/> </a>
+ 
+
  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
