@@ -38,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
  
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw1o0_yA4E6vsOQsgoVpbMjU&ust=1691678198092000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCB0cPmz4ADFQAAAAAdAAAAABAI" alt="dotnet" width="40" height="40"/> </a>
+ <img src="https://qph.cf2.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc" alt="python" width="40" height="40"/> </a>
  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
