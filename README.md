@@ -4,9 +4,7 @@
 
 <h3 align="center">A passionate Software Developer from Dublin!</h3>
 
-<h4 align="center">Nice to meet you!
- I am presently pursuing a Master's Degree in Computer Science at Griffith College Dublin with an anticipated graduation date at the end of June 2023.
-I've previously worked as a Junior .Net developer and currently focused on JS frameworks and aim to improve myself at this point and lay the foundations of being a qualified full-stack developer.</h4>
+<h4 align="center">Welcome to my GitHub page! I recently completed my MSc in Computer Science from Griffith College Dublin in July 2023. Having previously contributed my skills as a .NET developer, I'm currently focused towards mastering Python/Django and exploring JavaScript frameworks. My current goal revolves around enhancing my expertise in these technologies and honing my skills to become a proficient full-stack developer. Join me on my journey of continuous learning and innovation as I build and contribute to projects that showcase my evolving capabilities in the world of web development.</h4>
 
 
 - 🔭 I’m currently interested in **Web Development**
@@ -15,7 +13,7 @@ I've previously worked as a Junior .Net developer and currently focused on JS fr
 
 - 👯 I’m looking to collaborate on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **ReactJS and NodeJS**
+- 🌱 I’m currently learning **Python/Django, ReactJS, NodeJS**
 
 - 👨‍💻 Pronouns **He/His**
 
