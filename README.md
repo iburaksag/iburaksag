@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **ASP.NET, ReactJS, NodeJS**
+- 🌱 I’m currently learning **ASP.NET Core, ReactJS & AngularJS**
 
 - 👨‍💻 Pronouns **He/His**
 
