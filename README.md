@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Software Developer!</h3>
 
-<h4 align="center">Welcome to my GitHub page! I recently completed my MSc in Computer Science from Griffith College Dublin in August 2023. Having previously contributed my skills as a .NET developer, I'm currently focused on mastering ASP.NET Core and Python/Django-Flask frameworks. My current goal revolves around enhancing my expertise in these technologies and honing my skills to become a proficient full-stack developer. Join me on my journey of continuous learning and innovation as I build and contribute to projects that showcase my evolving capabilities in the world of web development.</h4>
+<h4 align="center">Welcome to my GitHub page! I recently completed my MSc in Computer Science from Griffith College Dublin in August 2023. Having previously contributed my skills as a .NET developer, I'm currently focused on mastering ASP.NET Core and JS skills. My current goal revolves around enhancing my expertise in this field and honing my skills to become a proficient full-stack developer. Join me on my journey of continuous learning and innovation as I build and contribute to projects that showcase my evolving capabilities in the world of web development.</h4>
 
 
 - 🔭 I’m currently interested in **Web Development**
